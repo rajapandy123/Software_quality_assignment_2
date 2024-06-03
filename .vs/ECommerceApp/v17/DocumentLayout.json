@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rajapandy\\OneDrive\\Desktop\\conestoga\\Software Development Techniques - 8011\\ECommerceApp\\",
+  "WorkspaceRootPath": "C:\\Users\\rajapandy\\OneDrive\\Desktop\\conestoga\\ECommerceApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5A4F751-5104-40BF-BFF0-66BCED736253}|ECommerceApp.Tests\\ECommerceApp.Tests.csproj|c:\\users\\rajapandy\\onedrive\\desktop\\conestoga\\software development techniques - 8011\\ecommerceapp\\ecommerceapp.tests\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E5A4F751-5104-40BF-BFF0-66BCED736253}|ECommerceApp.Tests\\ECommerceApp.Tests.csproj|c:\\users\\rajapandy\\onedrive\\desktop\\conestoga\\ecommerceapp\\ecommerceapp.tests\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5A4F751-5104-40BF-BFF0-66BCED736253}|ECommerceApp.Tests\\ECommerceApp.Tests.csproj|solutionrelative:ecommerceapp.tests\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61771F07-36F4-4272-A3EF-98676E60EA0A}|ECommerceApp\\ECommerceApp.csproj|C:\\Users\\rajapandy\\OneDrive\\Desktop\\conestoga\\Software Development Techniques - 8011\\ECommerceApp\\ecommerceapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61771F07-36F4-4272-A3EF-98676E60EA0A}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5A4F751-5104-40BF-BFF0-66BCED736253}|ECommerceApp.Tests\\ECommerceApp.Tests.csproj|C:\\Users\\rajapandy\\OneDrive\\Desktop\\conestoga\\ECommerceApp\\ECommerceApp.Tests\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A4F751-5104-40BF-BFF0-66BCED736253}|ECommerceApp.Tests\\ECommerceApp.Tests.csproj|solutionrelative:ECommerceApp.Tests\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61771F07-36F4-4272-A3EF-98676E60EA0A}|ECommerceApp\\ECommerceApp.csproj|C:\\Users\\rajapandy\\OneDrive\\Desktop\\conestoga\\Software Development Techniques - 8011\\ECommerceApp\\ecommerceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61771F07-36F4-4272-A3EF-98676E60EA0A}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61771F07-36F4-4272-A3EF-98676E60EA0A}|ECommerceApp\\ECommerceApp.csproj|C:\\Users\\rajapandy\\OneDrive\\Desktop\\conestoga\\ECommerceApp\\ECommerceApp\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61771F07-36F4-4272-A3EF-98676E60EA0A}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ECommerceApp\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5A4F751-5104-40BF-BFF0-66BCED736253}|ECommerceApp.Tests\\ECommerceApp.Tests.csproj|C:\\Users\\rajapandy\\OneDrive\\Desktop\\conestoga\\Software Development Techniques - 8011\\ECommerceApp\\ecommerceapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5A4F751-5104-40BF-BFF0-66BCED736253}|ECommerceApp.Tests\\ECommerceApp.Tests.csproj|solutionrelative:ecommerceapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61771F07-36F4-4272-A3EF-98676E60EA0A}|ECommerceApp\\ECommerceApp.csproj|C:\\Users\\rajapandy\\OneDrive\\Desktop\\conestoga\\ECommerceApp\\ECommerceApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61771F07-36F4-4272-A3EF-98676E60EA0A}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ECommerceApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,12 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -44,22 +40,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProductTests.cs",
-              "DocumentMoniker": "C:\\Users\\rajapandy\\OneDrive\\Desktop\\conestoga\\Software Development Techniques - 8011\\ECommerceApp\\ECommerceApp.Tests\\ProductTests.cs",
+              "DocumentMoniker": "C:\\Users\\rajapandy\\OneDrive\\Desktop\\conestoga\\ECommerceApp\\ECommerceApp.Tests\\ProductTests.cs",
               "RelativeDocumentMoniker": "ECommerceApp.Tests\\ProductTests.cs",
-              "ToolTip": "C:\\Users\\rajapandy\\OneDrive\\Desktop\\conestoga\\Software Development Techniques - 8011\\ECommerceApp\\ECommerceApp.Tests\\ProductTests.cs",
+              "ToolTip": "C:\\Users\\rajapandy\\OneDrive\\Desktop\\conestoga\\ECommerceApp\\ECommerceApp.Tests\\ProductTests.cs",
               "RelativeToolTip": "ECommerceApp.Tests\\ProductTests.cs",
-              "ViewState": "AQIAAHAAAAAAAAAAAAAmwIkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T19:18:36.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\rajapandy\\OneDrive\\Desktop\\conestoga\\Software Development Techniques - 8011\\ECommerceApp\\ECommerceApp.Tests\\UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\rajapandy\\OneDrive\\Desktop\\conestoga\\ECommerceApp\\ECommerceApp.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "ECommerceApp.Tests\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\rajapandy\\OneDrive\\Desktop\\conestoga\\Software Development Techniques - 8011\\ECommerceApp\\ECommerceApp.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\rajapandy\\OneDrive\\Desktop\\conestoga\\ECommerceApp\\ECommerceApp.Tests\\UnitTest1.cs",
               "RelativeToolTip": "ECommerceApp.Tests\\UnitTest1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -67,11 +63,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\rajapandy\\OneDrive\\Desktop\\conestoga\\Software Development Techniques - 8011\\ECommerceApp\\ECommerceApp\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\rajapandy\\OneDrive\\Desktop\\conestoga\\ECommerceApp\\ECommerceApp\\Product.cs",
               "RelativeDocumentMoniker": "ECommerceApp\\Product.cs",
-              "ToolTip": "C:\\Users\\rajapandy\\OneDrive\\Desktop\\conestoga\\Software Development Techniques - 8011\\ECommerceApp\\ECommerceApp\\Product.cs",
+              "ToolTip": "C:\\Users\\rajapandy\\OneDrive\\Desktop\\conestoga\\ECommerceApp\\ECommerceApp\\Product.cs",
               "RelativeToolTip": "ECommerceApp\\Product.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAowDEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -79,11 +75,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rajapandy\\OneDrive\\Desktop\\conestoga\\Software Development Techniques - 8011\\ECommerceApp\\ECommerceApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\rajapandy\\OneDrive\\Desktop\\conestoga\\ECommerceApp\\ECommerceApp\\Program.cs",
               "RelativeDocumentMoniker": "ECommerceApp\\Program.cs",
-              "ToolTip": "C:\\Users\\rajapandy\\OneDrive\\Desktop\\conestoga\\Software Development Techniques - 8011\\ECommerceApp\\ECommerceApp\\Program.cs",
+              "ToolTip": "C:\\Users\\rajapandy\\OneDrive\\Desktop\\conestoga\\ECommerceApp\\ECommerceApp\\Program.cs",
               "RelativeToolTip": "ECommerceApp\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -1,0 +1,7 @@
+C:\Users\rajapandy\OneDrive\Desktop\conestoga\Software Development Techniques - 8011\ECommerceApp\ECommerceApp\bin\Debug\ECommerceApp.exe.config
+C:\Users\rajapandy\OneDrive\Desktop\conestoga\Software Development Techniques - 8011\ECommerceApp\ECommerceApp\bin\Debug\ECommerceApp.exe
+C:\Users\rajapandy\OneDrive\Desktop\conestoga\Software Development Techniques - 8011\ECommerceApp\ECommerceApp\bin\Debug\ECommerceApp.pdb
+C:\Users\rajapandy\OneDrive\Desktop\conestoga\Software Development Techniques - 8011\ECommerceApp\ECommerceApp\obj\Debug\ECommerceApp.csproj.AssemblyReference.cache
+C:\Users\rajapandy\OneDrive\Desktop\conestoga\Software Development Techniques - 8011\ECommerceApp\ECommerceApp\obj\Debug\ECommerceApp.csproj.CoreCompileInputs.cache
+C:\Users\rajapandy\OneDrive\Desktop\conestoga\Software Development Techniques - 8011\ECommerceApp\ECommerceApp\obj\Debug\ECommerceApp.exe
+C:\Users\rajapandy\OneDrive\Desktop\conestoga\Software Development Techniques - 8011\ECommerceApp\ECommerceApp\obj\Debug\ECommerceApp.pdb
